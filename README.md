@@ -1,1 +1,2 @@
-# P4Human_Pose_Estimation
+# *P4Human_Pose_Estimation*
+In many applications, including full-body gesture control, sign language recognition, and the quantification of physical activities, human position estimation from video is essential. It can serve as the foundation for applications in yoga, dance, and fitness, for instance. Additionally, it can make it possible for digital information and material to be superimposed on top of the real world in augmented reality.
